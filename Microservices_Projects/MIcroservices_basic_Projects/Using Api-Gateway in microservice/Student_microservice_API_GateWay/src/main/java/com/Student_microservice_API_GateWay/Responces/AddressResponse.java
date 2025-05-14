@@ -1,4 +1,4 @@
-package com.Microservices_basic_Stu.Responces;
+package com.Student_microservice_API_GateWay.Responces;
 
 
 import com.fasterxml.jackson.annotation.JsonProperty;

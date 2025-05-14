@@ -1,4 +1,4 @@
-package com.Microservices_basic_Stu.Responces;
+package com.student_microservice_with_eureka.Responces;
 
 
 import com.fasterxml.jackson.annotation.JsonProperty;

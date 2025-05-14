@@ -1,4 +1,4 @@
-package com.Microservices_basic_Stu.Responces;
+package com.student_circuit_breaker.Responces;
 
 
 import com.fasterxml.jackson.annotation.JsonProperty;

@@ -1,9 +1,10 @@
-package com.Microservices_basic_add.Controller;
+package com.address_microservice_with_eureka.Controller;
 
 
-import com.Microservices_basic_add.Request.Addrequest;
-import com.Microservices_basic_add.Responces.Addresponces;
-import com.Microservices_basic_add.Services.AddService_I;
+
+import com.address_microservice_with_eureka.Request.Addrequest;
+import com.address_microservice_with_eureka.Responces.Addresponces;
+import com.address_microservice_with_eureka.Services.AddService_I;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

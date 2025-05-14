@@ -1,4 +1,4 @@
-package com.Microservices_basic_Stu.Responces;
+package com.Student_LoadBalancer_Project.Responces;
 
 
 import com.fasterxml.jackson.annotation.JsonProperty;
